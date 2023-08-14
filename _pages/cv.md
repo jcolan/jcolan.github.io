@@ -54,8 +54,8 @@ Scholarships & Fellowhips
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/canada_flag.png" width="20" height="15">|2020|Research Internship Scholarship| Polytechnique Montreal|
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015-2018|Research assitant fellowship |Nagoya University Leadership Development Program for Space Exploration and Research|
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015-2021|Japanese Government Postgraduate Scholarship|MEXT|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015-2018|Research assistant fellowship |Nagoya University Leadership Development Program for Space Exploration and Research|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2015-2021|Japanese Government Postgraduate Scholarship|Ministry of Education, Culture, Sports, Science and Technology|
 
 Research grants
 ===============
@@ -64,3 +64,11 @@ Research grants
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2022-2024 |Grant-in-Aid for Early-Career Scientists <br> [22K14221](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K14221/)|Japan Society for the Promotion of Science|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2022-2023 |AIP Challenge Program|Japan Science and Technology Agency|
+
+Reviewer for
+===============
+- IEEE Robotics and Automation Letters
+- IEEE Transactions on Mechatronics
+- IEEE Access
+- Robomech Journal
+- Biomimetics
