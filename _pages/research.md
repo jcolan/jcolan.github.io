@@ -5,13 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-<h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
-
 ## [Reliable AI for Autonomous surgical robotic assistants](https://www.mein.nagoya-u.ac.jp/en/medical_autonomous_surgical_assistant_robot.html)
-
-<h2 style="color: black; font-family: Segoe UI;"><strong><a href="https://www.mein.nagoya-u.ac.jp/en/medical_autonomous_surgical_assistant_robot.html">Reliable AI for Autonomous surgical robotic assistants</strong></h2>
-
-
 Part of the CREST Project "Reliable Interventional AI Robotics sharing its ambiguity of AI diagnosis with medical profession" (2021 - Today). 
 
 Our goal is to develop an autonomous surgical assistant robot that leverages reliable AI strategies, computer vision, and human-robot interactive communication and intention prediction to assist surgeons in complex procedures.
