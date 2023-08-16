@@ -9,7 +9,7 @@ author_profile: true
 
 ## [Reliable AI for Autonomous surgical robotic assistants](https://www.mein.nagoya-u.ac.jp/en/medical_autonomous_surgical_assistant_robot.html)
 
-<span style="color:black"> <h2 style="color: black; font-family: Segoe UI;"><strong><a href="https://www.mein.nagoya-u.ac.jp/en/medical_autonomous_surgical_assistant_robot.html">Reliable AI for Autonomous surgical robotic assistants</strong></h2> </span>
+<h2 style="color: black; font-family: Segoe UI;"><strong><a href="https://www.mein.nagoya-u.ac.jp/en/medical_autonomous_surgical_assistant_robot.html">Reliable AI for Autonomous surgical robotic assistants</strong></h2>
 
 
 Part of the CREST Project "Reliable Interventional AI Robotics sharing its ambiguity of AI diagnosis with medical profession" (2021 - Today). 
