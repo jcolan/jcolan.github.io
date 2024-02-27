@@ -67,6 +67,7 @@ Research grants
 | --- | --- | --- | --- |
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2022-2024 |Grant-in-Aid for Early-Career Scientists <br> [22K14221](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K14221/)|Japan Society for the Promotion of Science|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2022-2023 |AIP Challenge Program|Japan Science and Technology Agency|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2018-2021 |Nagoya University Research Grant for Doctoral students|Nagoya University|
 
 Reviewer for
 ===============
