@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://jcolan.github.io/files/CV_Jacinto_Colan.pdf)
+<!-- [PDF](https://jcolan.github.io/files/CV_Jacinto_Colan.pdf) -->
 
 Education
 ===============
