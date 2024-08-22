@@ -71,8 +71,9 @@ Research grants
 
 Reviewer for
 ===============
+- npj Digital Medicine
 - IEEE Robotics and Automation Letters
 - IEEE Transactions on Mechatronics
+- IEEE Transactions on Automation Science and Engineering
 - IEEE Access
 - Robomech Journal
-- Biomimetics
