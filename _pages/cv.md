@@ -65,6 +65,8 @@ Research grants
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2025-2028 |Grant-in-Aid for Early-Career Scientists <br> [25K17573](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-25K17573/)|Japan Society for the Promotion of Science|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2025-2026 |AIP Challenge Program|Japan Science and Technology Agency|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2022-2024 |Grant-in-Aid for Early-Career Scientists <br> [22K14221](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22K14221/)|Japan Society for the Promotion of Science|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2022-2023 |AIP Challenge Program|Japan Science and Technology Agency|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">| 2018-2021 |Nagoya University Research Grant for Doctoral students|Nagoya University|
@@ -75,5 +77,7 @@ Reviewer for
 - IEEE Robotics and Automation Letters
 - IEEE Transactions on Mechatronics
 - IEEE Transactions on Automation Science and Engineering
+- IEEE Transactions on Medical Robotics and Bionics
+- IEEE Transactions on Evolutionary Computation
 - IEEE Access
 - Robomech Journal
