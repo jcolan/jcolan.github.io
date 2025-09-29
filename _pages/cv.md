@@ -42,10 +42,13 @@ Honors & Awards
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/korea_flag.png" width="20" height="15">|2025|Best Poster Award| IEEE International Conference CoRL 2025 (Workshop of Open Hardware)|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2024|Best Paper Award| IEEE International Symposium MHS 2024|
 |<img style='border:1px solid #000000' src="/images/korea_flag.png" width="20" height="15">|2023|Best Paper Award| IEEE International Conference RO-MAN 2023|
 |<img style='border:1px solid #000000' src="/images/china_flag.png" width="20" height="15">|2023|Finalist Best Paper Award| IEEE International Conference ICMA 2023|
 |<img style='border:1px solid #000000' src="/images/china_flag.png" width="20" height="15">|2022|Best Paper Award| IEEE International Conference CBS 2022|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2022|Best Paper Award| IEEE International Symposium MHS 2022|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2021|Gold Medal| Participatory Design in Robotics for Elderly Care in Germany and Japan (PADERO) Hackaton|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2019|Best Paper Award| IEEE International Symposium MHS 2019|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2016|Best Presentation Award|SICE Annual Conference|
 
