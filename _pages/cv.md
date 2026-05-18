@@ -26,7 +26,9 @@ Positions
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
-|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2021/04 --- Today| Postdoctoral Researcher |Nagoya university|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2026/04 --- Today| Assistant Professor |Nagoya University|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2026/04 --- Today| Specially Appointed Assistant Professor |Tohoku University|
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2021/04 --- 2026/03| Postdoctoral Researcher |Nagoya University|
 
 
 Research visits
@@ -42,7 +44,9 @@ Honors & Awards
 
 |<img width=20/>|     |     |     |
 | --- | --- | --- | --- |
+|<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2025|Lab Director Award| JST AIP Challenge Program|
 |<img style='border:1px solid #000000' src="/images/korea_flag.png" width="20" height="15">|2025|Best Poster Award| IEEE International Conference CoRL 2025 (Workshop of Open Hardware)|
+|<img style='border:1px solid #000000' src="/images/korea_flag.png" width="20" height="15">|2025|Outstanding Presentation Award| SI2025|
 |<img style='border:1px solid #000000' src="/images/japan_flag.png" width="20" height="15">|2024|Best Paper Award| IEEE International Symposium MHS 2024|
 |<img style='border:1px solid #000000' src="/images/korea_flag.png" width="20" height="15">|2023|Best Paper Award| IEEE International Conference RO-MAN 2023|
 |<img style='border:1px solid #000000' src="/images/china_flag.png" width="20" height="15">|2023|Finalist Best Paper Award| IEEE International Conference ICMA 2023|
